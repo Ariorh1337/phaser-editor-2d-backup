@@ -1,13 +1,18 @@
 # phaser-editor-2d-backup
 Legacy Phaser Editor 2D bundles
 
+---
+
 ### About
 
 The purpose of this repository is to duplicate the version history of the editor.
 
 The original files are located:
+
 Link for v1: https://phasereditor2d.com/v1/
+
 Link for v2: https://phasereditor2d.com/v2/
+
 Link for v3: https://updates.phasereditor2d.com/
 
 v4 has no trial licence and not avaliable for public download for now
