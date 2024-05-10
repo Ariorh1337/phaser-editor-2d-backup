@@ -38,3 +38,5 @@ v3.36.0 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-
 v3.36.1 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v3.36.1)
 
 v3.36.2 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v3.36.2)
+
+v3.60.0 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v3.60.0)
