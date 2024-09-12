@@ -15,11 +15,13 @@ Link for v2: https://phasereditor2d.com/v2/
 
 Link for v3: https://updates.phasereditor2d.com/
 
-v4 has no trial licence and not avaliable for public download for now
+Link for v4: https://editor.phaser.io/account/downloads
 
 ---
 
 ### Latest
+
+v4.0.0 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v4.0.0)
 
 v3.67.0 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v3.67.0)
 
@@ -30,6 +32,10 @@ v1.5.4  - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-
 ---
 
 ### Releases
+
+v4.0.0 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v4.0.0)
+
+v3.67.0 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v3.67.0)
 
 v3.66.0 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v3.66.0)
 
@@ -88,3 +94,7 @@ v3.20.0 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-
 v3.15.0 - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v3.15.0)
 
 v3.14.0 - [Windows](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v3.14.0)
+
+v2.1.8  - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v2.1.8)
+
+v1.5.4  - [Windows - Linux - Macos](https://github.com/Ariorh1337/phaser-editor-2d-backup/releases/tag/v1.5.4)
