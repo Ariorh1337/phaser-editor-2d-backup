@@ -15,7 +15,7 @@ Link for v2: https://phasereditor2d.com/v2/
 
 Link for v3: https://updates.phasereditor2d.com/
 
-Link for v4: https://editor.phaser.io/account/downloads
+Link for v4: https://phaser.io/account/downloads
 
 ---
 
